@@ -1,0 +1,26 @@
+.settings
+.project
+.classpath
+.metadata
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+dependency-reduced-pom.xml
+
+# vim
+*~
+
+# git merge temporary files
+*.orig
+
+# cygwin
+*.stackdump
